@@ -3,10 +3,10 @@
 
 For the site to work properly, a rolled out database is necessary.
 
-<?php
+A file named config.php should be added in the includefiles folder;
 
-$host = "<IP-adress>";
-$username = "<username>";
+$host = "pass";
+$username = "user";
 $pass = "password";
 $dbname = "database";
 $options = array(
@@ -14,4 +14,8 @@ $options = array(
 );
 $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
 
-?>
+
+currently there is a working version running on personeelsdag.marcyk.202devs.nl
+username: Marcy
+password: publicPass1!
+
