@@ -14,3 +14,4 @@ $options = array(
 );
 $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
 
+Also yes this is a very ugly styled webpage.
