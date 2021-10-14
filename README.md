@@ -14,8 +14,3 @@ $options = array(
 );
 $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
 
-
-currently there is a working version running on personeelsdag.marcyk.202devs.nl
-username: Marcy
-password: publicPass1!
-
